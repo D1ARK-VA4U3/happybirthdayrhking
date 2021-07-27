@@ -80,20 +80,19 @@ wish='''
                                            
                                            
 __________ ____    ___________  ________   
-MMMMMMMMMM `MM'    `MM`MMMMMMMb.`MMMMMMMb. 
-/   MM   \  MM      MM MM    `Mb MM    `Mb 
-    MM      MM      MM MM     MM MM     MM 
-    MM      MM      MM MM    .M9 MM     MM 
-    MM      MMMMMMMMMM MMMMMMM(  MM     MM 
-    MM      MM      MM MM    `Mb MM     MM 
-    MM      MM      MM MM     MM MM     MM 
-    MM      MM      MM MM     MM MM     MM 
-    MM      MM      MM MM    .M9 MM    .M9 
-   _MM_    _MM_    _MM_MMMMMMM9'_MMMMMMM9' 
+
+╔═══╦╗─╔═══╦═══╦═══╦╗
+║╔═╗║║─║╔═╗║╔═╗║╔═╗║║
+║╚═╝║╚═╣║║║╠╝╔╝╠╝╔╝║║╔╦╦═╗╔══╗
+║╔╗╔╣╔╗║║║║║─║╔╝─║╔╣╚╝╬╣╔╗╣╔╗║
+║║║╚╣║║║╚═╝║─║║──║║║╔╗╣║║║║╚╝║
+╚╝╚═╩╝╚╩═══╝─╚╝──╚╝╚╝╚╩╩╝╚╩═╗║
+──────────────────────────╔═╝║
+──────────────────────────╚══╝
                                            
                                            
                                            
-                                                                                           
+ >>FROM D1ARK-VA4U3<<<                                                                                          
                                                                                                                                                                     
 '''
 
